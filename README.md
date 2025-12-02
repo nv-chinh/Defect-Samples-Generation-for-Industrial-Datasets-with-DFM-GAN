@@ -32,3 +32,39 @@ This design allows DFM-GAN to learn defect patterns effectively while preserving
 
 ---
 
+## 🧪 Experiments
+We evaluate DFM-GAN on 2 benchmark datasets for industrial defect inspection: **MVTec AD** and **VisA**. These datasets cover multiple object categories, diverse defect types, and realistic industrial imaging conditions.
+
+---
+
+### 🧵 1. Experiments on MVTec AD
+
+**MVTec AD** is a high-quality industrial anomaly detection dataset containing **15 object and texture categories**, each with various defects such as scratches, holes, contamination, broken,...
+
+Below are example results for some categories:
+
+#### **1. Bottle**
+| Good Samples  | Real Defects  | Generated Defects  |
+|---------------|---------------|---------------------|
+| ![](path/to/good_bottle_1.jpg) <br> ![](path/to/good_bottle_2.jpg) | ![](path/to/real_bottle_1.jpg) <br> ![](path/to/real_bottle_2.jpg) | ![](path/to/gen_bottle_1.jpg) <br> ![](path/to/gen_bottle_2.jpg) <br> ![](path/to/gen_bottle_3.jpg) <br> ![](path/to/gen_bottle_4.jpg) |
+
+#### **2. Capsule**
+| Good Samples  | Real Defects  | Generated Defects  |
+|---------------|---------------|---------------------|
+| ![](path/to/good_bottle_1.jpg) <br> ![](path/to/good_bottle_2.jpg) | ![](path/to/real_bottle_1.jpg) <br> ![](path/to/real_bottle_2.jpg) | ![](path/to/gen_bottle_1.jpg) <br> ![](path/to/gen_bottle_2.jpg) <br> ![](path/to/gen_bottle_3.jpg) <br> ![](path/to/gen_bottle_4.jpg) |
+
+#### **3. Carpet**
+| Good Samples  | Real Defects  | Generated Defects  |
+|---------------|---------------|---------------------|
+| ![](path/to/good_bottle_1.jpg) <br> ![](path/to/good_bottle_2.jpg) | ![](path/to/real_bottle_1.jpg) <br> ![](path/to/real_bottle_2.jpg) | ![](path/to/gen_bottle_1.jpg) <br> ![](path/to/gen_bottle_2.jpg) <br> ![](path/to/gen_bottle_3.jpg) <br> ![](path/to/gen_bottle_4.jpg) |
+
+#### **4. Hazelnut**
+| Good Samples  | Real Defects  | Generated Defects  |
+|---------------|---------------|---------------------|
+| ![](path/to/good_bottle_1.jpg) <br> ![](path/to/good_bottle_2.jpg) | ![](path/to/real_bottle_1.jpg) <br> ![](path/to/real_bottle_2.jpg) | ![](path/to/gen_bottle_1.jpg) <br> ![](path/to/gen_bottle_2.jpg) <br> ![](path/to/gen_bottle_3.jpg) <br> ![](path/to/gen_bottle_4.jpg) |
+
+---
+
+### 📦 2. Experiments on VisA Dataset
+
+**VisA** is a large-scale industrial dataset covering **12 industrial products** including food items, manufactured goods, and electronic components. VisA includes **complex textures** and **fine-grained defects**.
