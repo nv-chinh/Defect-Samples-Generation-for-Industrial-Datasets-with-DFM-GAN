@@ -44,9 +44,9 @@ We evaluate DFM-GAN on 2 benchmark datasets for industrial defect inspection: **
 Below are example results for some categories:
 
 #### **1. Bottle**
-| Good Samples  | Real Defects  | Generated Defects  |
-|---------------|---------------|---------------------|
-| ![](path/to/good_bottle_1.jpg) <br> ![](path/to/good_bottle_2.jpg) | ![](path/to/real_bottle_1.jpg) <br> ![](path/to/real_bottle_2.jpg) | ![](path/to/gen_bottle_1.jpg) <br> ![](path/to/gen_bottle_2.jpg) <br> ![](path/to/gen_bottle_3.jpg) <br> ![](path/to/gen_bottle_4.jpg) |
+| Good Samples | Real Defects | Generated Defects |
+|--------------|--------------|-------------------|
+| <img src="Results/MVTec_Dataset/Bottle/Real_Samples/Good/000.png" width="160"> <br> <img src="Results/MVTec_Dataset/Bottle/Real_Samples/Good/003.png" width="160"> | <img src="Results/MVTec_Dataset/Bottle/Real_Samples/Fail/000.png" width="160"> <br> <img src="Results/MVTec_Dataset/Bottle/Real_Samples/Fail/003.png" width="160"> | <img src="path/to/gen_bottle_1.jpg" width="160"> <br> <img src="path/to/gen_bottle_2.jpg" width="160"> <br> <img src="path/to/gen_bottle_3.jpg" width="160"> <br> <img src="path/to/gen_bottle_4.jpg" width="160"> |
 
 #### **2. Capsule**
 | Good Samples  | Real Defects  | Generated Defects  |
