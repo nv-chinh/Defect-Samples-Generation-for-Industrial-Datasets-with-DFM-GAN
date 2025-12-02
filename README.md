@@ -46,7 +46,7 @@ Below are example results for some categories:
 #### **1. Bottle**
 | Good Samples | Real Defects | Generated Defects |
 |--------------|--------------|-------------------|
-| <img src="Results/MVTec_Dataset/Bottle/Real_Samples/Good/000.png" width="100"> | <img src="Results/MVTec_Dataset/Bottle/Real_Samples/Fail/000.png" width="100"> | <img src="Results/MVTec_Dataset/Bottle/Generated_Samples/9_img.png" width="100"> <img src="Results/MVTec_Dataset/Bottle/Generated_Samples/27_img.png" width="100"> <img src="Results/MVTec_Dataset/Bottle/Generated_Samples/88_img.png" width="100"> |
+| <img src="Results/MVTec_Dataset/Bottle/Real_Samples/Good/000.png" width="80"> | <img src="Results/MVTec_Dataset/Bottle/Real_Samples/Fail/000.png" width="80"> | <img src="Results/MVTec_Dataset/Bottle/Generated_Samples/9_img.png" width="80"> <img src="Results/MVTec_Dataset/Bottle/Generated_Samples/27_img.png" width="80"> <img src="Results/MVTec_Dataset/Bottle/Generated_Samples/88_img.png" width="80"> |
 
 #### **2. Capsule**
 | Good Samples | Real Defects | Generated Defects |
