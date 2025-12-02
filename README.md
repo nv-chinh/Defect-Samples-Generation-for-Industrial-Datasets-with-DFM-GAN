@@ -35,6 +35,8 @@ This design allows DFM-GAN to learn defect patterns effectively while preserving
 ## 🧪 Experiments
 We evaluate DFM-GAN on 2 benchmark datasets for industrial defect inspection: **MVTec AD** and **VisA**. These datasets cover multiple object categories, diverse defect types, and realistic industrial imaging conditions.
 
+**Note:** All results are stored in the [Results](Results/) folder.
+
 ---
 
 ### 🧵 1. Experiments on MVTec AD
