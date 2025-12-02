@@ -43,22 +43,22 @@ We evaluate DFM-GAN on 2 benchmark datasets for industrial defect inspection: **
 
 Below are example results for some categories:
 
-#### **1. Bottle**
+#### **1. Bottle** - Defect Type: Broken Surface
 | Good Samples | Real Defects | Generated Defects |
 |--------------|--------------|-------------------|
 | <img src="Results/MVTec_Dataset/Bottle/Real_Samples/Good/000.png" width="80"> | <img src="Results/MVTec_Dataset/Bottle/Real_Samples/Fail/000.png" width="80"> | <img src="Results/MVTec_Dataset/Bottle/Generated_Samples/9_img.png" width="80"> <img src="Results/MVTec_Dataset/Bottle/Generated_Samples/27_img.png" width="80"> <img src="Results/MVTec_Dataset/Bottle/Generated_Samples/88_img.png" width="80"> |
 
-#### **2. Capsule**
+#### **2. Capsule** - Defect Type: Crack
 | Good Samples | Real Defects | Generated Defects |
 |--------------|--------------|-------------------|
 | <img src="Results/MVTec_Dataset/Capsule/Real_Samples/Good/000.png" width="80"> | <img src="Results/MVTec_Dataset/Capsule/Real_Samples/Fail/001.png" width="80"> | <img src="Results/MVTec_Dataset/Capsule/Generated_Samples/15_img.png" width="80"> <img src="Results/MVTec_Dataset/Capsule/Generated_Samples/21_img.png" width="80"> <img src="Results/MVTec_Dataset/Capsule/Generated_Samples/63_img.png" width="80"> |
 
-#### **3. Carpet**
+#### **3. Carpet** - Defect Type: Thread
 | Good Samples | Real Defects | Generated Defects |
 |--------------|--------------|-------------------|
 | <img src="Results/MVTec_Dataset/Carpet/Real_Samples/Good/000.png" width="80"> | <img src="Results/MVTec_Dataset/Carpet/Real_Samples/Fail/000.png" width="80"> | <img src="Results/MVTec_Dataset/Carpet/Generated_Samples/20_img.png" width="80"> <img src="Results/MVTec_Dataset/Carpet/Generated_Samples/7_img.png" width="80"> <img src="Results/MVTec_Dataset/Carpet/Generated_Samples/163_img.png" width="80"> |
 
-#### **4. Hazelnut**
+#### **4. Hazelnut** - Defect Type: Crack
 | Good Samples | Real Defects | Generated Defects |
 |--------------|--------------|-------------------|
 | <img src="Results/MVTec_Dataset/Hazelnut/Real_Samples/Good/000.png" width="80"> | <img src="Results/MVTec_Dataset/Hazelnut/Real_Samples/Fail/000.png" width="80"> | <img src="Results/MVTec_Dataset/Hazelnut/Generated_Samples/77_img.png" width="80"> <img src="Results/MVTec_Dataset/Hazelnut/Generated_Samples/86_img.png" width="80"> <img src="Results/MVTec_Dataset/Hazelnut/Generated_Samples/67_img.png" width="80"> |
@@ -71,22 +71,22 @@ Below are example results for some categories:
 
 Below are example results for some categories:
 
-#### **1. Cashew**
+#### **1. Cashew** - Defect Type: Breakage
 | Good Samples | Real Defects | Generated Defects |
 |--------------|--------------|-------------------|
 | <img src="Results/Visa_Dataset/Cashew/Real_Samples/Good/000.png" width="80"> | <img src="Results/Visa_Dataset/Cashew/Real_Samples/Fail/001.png" width="80"> | <img src="Results/Visa_Dataset/Cashew/Generated_Samples/148_img.png" width="80"> <img src="Results/Visa_Dataset/Cashew/Generated_Samples/176_img.png" width="80"> <img src="Results/Visa_Dataset/Cashew/Generated_Samples/85_img.png" width="80"> |
 
-#### **2. ChewingGum**
+#### **2. ChewingGum** - Defect Type: Colour Spot
 | Good Samples | Real Defects | Generated Defects |
 |--------------|--------------|-------------------|
 | <img src="Results/Visa_Dataset/ChewingGum/Real_Samples/Good/000.png" width="80"> | <img src="Results/Visa_Dataset/ChewingGum/Real_Samples/Fail/003.png" width="80"> | <img src="Results/Visa_Dataset/ChewingGum/Generated_Samples/9_img.png" width="80"> <img src="Results/Visa_Dataset/ChewingGum/Generated_Samples/31_img.png" width="80"> <img src="Results/Visa_Dataset/ChewingGum/Generated_Samples/37_img.png" width="80"> |
 
-#### **3. Frym**
+#### **3. Frym** - Defect Type: Burnt Surface
 | Good Samples | Real Defects | Generated Defects |
 |--------------|--------------|-------------------|
 | <img src="Results/Visa_Dataset/Frym/Real_Samples/Good/000.png" width="80"> | <img src="Results/Visa_Dataset/Frym/Real_Samples/Fail/000.png" width="80"> | <img src="Results/Visa_Dataset/Frym/Generated_Samples/37_img.png" width="80"> <img src="Results/Visa_Dataset/Frym/Generated_Samples/38_img.png" width="80"> <img src="Results/Visa_Dataset/Frym/Generated_Samples/169_img.png" width="80"> |
 
-#### **4. PipeFryum**
+#### **4. PipeFryum** - Defect Type: Burnt Surface
 | Good Samples | Real Defects | Generated Defects |
 |--------------|--------------|-------------------|
 | <img src="Results/Visa_Dataset/PipeFryum/Real_Samples/Good/000.png" width="80"> | <img src="Results/Visa_Dataset/PipeFryum/Real_Samples/Fail/001.png" width="80"> | <img src="Results/Visa_Dataset/PipeFryum/Generated_Samples/23_img.png" width="80"> <img src="Results/Visa_Dataset/PipeFryum/Generated_Samples/93_img.png" width="80"> <img src="Results/Visa_Dataset/PipeFryum/Generated_Samples/134_img.png" width="80"> |
